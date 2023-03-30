@@ -3,10 +3,10 @@ import Title from './Title';
 
 class SolarSystem extends Component {
   render() {
-    const titulo = 'Planetas'
+    const titulo = 'Planetas';
     return (
       <div data-testid="solar-system">
-        <Title headline={titulo}/>
+        <Title headline={ titulo } />
       </div>
     );
   }
