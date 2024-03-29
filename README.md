@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do projeto Solar System! Este projeto consiste na criação de uma aplicação em React que oferece uma simulação do sistema solar, permitindo aos usuários visualizar os planetas e obter informações sobre missões espaciais.
 
-![Preview do Projeto](url_da_imagem)
+![Preview do Projeto](src/images/system.png)
 
 ## 🚀 Conteúdo
 
